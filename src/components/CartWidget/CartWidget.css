@@ -1,0 +1,26 @@
+.cart-widget {
+    display: inline-block;
+  }
+  
+  .cart-widget-button {
+    background: black;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .cart-widget-button img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .cart-widget-count {
+    background: white;
+    border-radius: 50%;
+    color: black;
+    padding: 2px 6px;
+    margin-left: 5px;
+    text-align: center;
+  }
